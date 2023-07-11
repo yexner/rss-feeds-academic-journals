@@ -1,4 +1,4 @@
-# RSS feeds for Marketing academic journals
+# RSS feeds for academic marketing journals
 This is a (growing) list of links to academic journals within Marketing and their associated RSS feeds. I use it to track newly published scientific papers and hence stay on top of the current state of literature.
 
 The list is clustered according to each Journal's ranking in the [VHB-JOURQUAL3](https://vhbonline.org/en/vhb4you/vhb-jourqual/vhb-jourqual-3/complete-list "VHB-JOURQUAL3").
@@ -24,7 +24,7 @@ Journal of Consumer Psychology (JCP) | 1057-7408 | https://myscp.onlinelibrary.w
 Journal of Product Innovation Management (JPIM) | 0737-6782 | https://onlinelibrary.wiley.com/feed/15405885/most-recent
 Journal of Retailing (JR) | 0022-4359 | https://rss.sciencedirect.com/publication/science/00224359
 Journal of Service Research (JSR) | 1094-6705 | https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jsra&type=axatoc&feed=rss
-Journal of the Academy of Marketing Science (JAMS) | 0092-0703 | unknown
+Journal of the Academy of Marketing Science (JAMS) | 0092-0703 | https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jama&type=etoc&feed=rss
 
 
 ---
