@@ -6,6 +6,7 @@ Please feel free to contribute/update.
 
 ## FT50 Journals
 Source: [50 Journals used in FT Research Rank](https://www.ft.com/content/3405a512-5cbb-11e1-8f1f-00144feabdc0 "50 Journals used in FT Research Rank").
+
 Last updated: Dec/2023
 
 Journal name | ISSN | RSS URL
